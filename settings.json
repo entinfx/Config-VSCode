@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "git.ignoreMissingGitWarning": true,
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.sortOrder": "modified",
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "terminal.background": "#13121A",
+        "terminal.foreground": "#D3D7CF",
+        "terminalCursor.background": "#585858"
+    },
+    "colorize.include": [
+        "**/*.html",
+        "**/*.txt",
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "**/*.styl"
+    ],
+}
